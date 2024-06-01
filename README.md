@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm currently learning python 🙃 
+- I'm currently working on Tic Tac Toe Game in @Javascript
+- I'm currently learning python 🙃 
 
 <!--
 **EMLzmile/EMLzmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
