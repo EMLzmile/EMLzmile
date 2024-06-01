@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently working on Tic Tac Toe Game in @Javascript
+- I'm currently working on Tic Tac Toe Game in Javascript
 - I'm currently learning python 🙃 
 
 <!--
